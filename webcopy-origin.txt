@@ -1,0 +1,3780 @@
+Uri: https://cdn.shopify.com/extensions/34fd8d9a-71fe-404e-b131-93ab807780b6/bucks-19/assets/widgetLoader.js
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\34fd8d9a-71fe-404e-b131-93ab807780b6\bucks-19\assets\widgetLoader.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/37052f3f-88bb-4657-9e09-2ff02940c705/socialwidget-instafeed-66/assets/social-widget.min.js
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\37052f3f-88bb-4657-9e09-2ff02940c705\socialwidget-instafeed-66\assets\social-widget.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/c0197591-d58c-4bc8-95c5-9f307f4b00de/seedgrow-whatsapp-chat-56/assets/njt-whatsapp.min.js
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\c0197591-d58c-4bc8-95c5-9f307f4b00de\seedgrow-whatsapp-chat-56\assets\njt-whatsapp.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/c0197591-d58c-4bc8-95c5-9f307f4b00de/seedgrow-whatsapp-chat-56/assets/whatsapp-style.min.css
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\c0197591-d58c-4bc8-95c5-9f307f4b00de\seedgrow-whatsapp-chat-56\assets\whatsapp-style.min.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/extensions/c0197591-d58c-4bc8-95c5-9f307f4b00de/seedgrow-whatsapp-chat-56/assets/whatsapp-widget.min.js
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\c0197591-d58c-4bc8-95c5-9f307f4b00de\seedgrow-whatsapp-chat-56\assets\whatsapp-widget.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/e20078c7-7a62-4bef-86f0-1d3eb911c0dc/musbu-wa-chat-44/assets/cx_whatsapp_button.js
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\e20078c7-7a62-4bef-86f0-1d3eb911c0dc\musbu-wa-chat-44\assets\cx_whatsapp_button.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/e20078c7-7a62-4bef-86f0-1d3eb911c0dc/musbu-wa-chat-44/assets/musbu-chat-support.css
+File Name: C:\Downloaded Web Sites\www.misa.in\extensions\e20078c7-7a62-4bef-86f0-1d3eb911c0dc\musbu-wa-chat-44\assets\musbu-chat-support.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba-flags.png?=14261939516959647149
+File Name: C:\Downloaded Web Sites\www.misa.in\s\files\1\0194\1736\6592\t\1\assets\ba-flags.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/booster-page-speed-optimizer.js?23
+File Name: C:\Downloaded Web Sites\www.misa.in\s\files\1\0194\1736\6592\t\1\assets\booster-page-speed-optimizer.js
+Content Type: text/javascript
+
+Uri: https://d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=misa-candles.myshopify.com
+File Name: C:\Downloaded Web Sites\www.misa.in\apps\customizery\customizery.js
+Content Type: text/javascript
+
+Uri: https://dvjimc2bmh7lo.cloudfront.net/assets/bundle.css?t=1629126224
+File Name: C:\Downloaded Web Sites\www.misa.in\assets\bundle.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&subset=latin,latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\www.misa.in\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Nunito Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&subset=latin,latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\www.misa.in\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap
+File Name: C:\Downloaded Web Sites\www.misa.in\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap);.czm-button,.czm-chat-support{position:relative;display:inline-flex;z-index:998}.czm-chat-support{font-family:Roboto,sans-serif;font-size:14px;line-height:1.5;font-weight:400;color:
+File Name: C:\Downloaded Web Sites\www.misa.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UpK_c.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5XvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5XvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5XvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5XvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5XvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5XvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5XvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5XvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXvVUg.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\nunitosans\v18\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXt_A_A.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXt_A_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXt_A_A.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXt_A_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXt_A_A.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXt_A_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXt_A_A.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXt_A_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXt_A_A.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXt_A_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXt_A_A.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXt_A_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDZbtY.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDZbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtY.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDZbtY.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDZbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDZbtY.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDZbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDZbtY.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDZbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDZbtY.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDZbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.misa.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://store.xecurify.com/moas/rest/shopify/check?shop=misa-candles.myshopify.com
+File Name: C:\Downloaded Web Sites\www.misa.in\moas\rest\shopify\check
+Content Type: application/json
+
+Uri: https://whatsapp-u.seedgrow.net/images/red-dot-animation.gif
+File Name: C:\Downloaded Web Sites\www.misa.in\images\red-dot-animation.gif
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-203567006-1
+File Name: C:\Downloaded Web Sites\www.misa.in\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.misa.in/
+File Name: C:\Downloaded Web Sites\www.misa.in\index.htm
+Content Type: text/html
+
+Uri: https://www.misa.in/cart
+File Name: C:\Downloaded Web Sites\www.misa.in\cart.html
+Content Type: text/html
+
+Uri: https://www.misa.in/cdn/shop/collections/20240812_160024_0000_1024x1024.jpg?v=1727351286
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\20240812_160024_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/collections/Ambre_Lueur_1_1296x_b2ddba67-bc31-4956-9dfc-3bbb71227d59_1024x1024.jpg?v=1703836753
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\Ambre_Lueur_1_1296x_b2ddba67-bc31-4956-9dfc-3bbb71227d59_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/collections/Dummy-vertical-2_1024x1024.jpg?v=1727336894
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\Dummy-vertical-2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/collections/Dummy-vertical-2_7e7d1d3a-2aff-4812-b872-6004ff8c1f42_1024x1024.jpg?v=1642675180
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\Dummy-vertical-2_7e7d1d3a-2aff-4812-b872-6004ff8c1f42_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/collections/Dummy-vertical_1024x1024.jpg?v=1642675178
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\Dummy-vertical_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/collections/Dummy-vertical_d730b13f-6740-4b1f-b04d-157ccda8e100_1024x1024.jpg?v=1642675184
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\Dummy-vertical_d730b13f-6740-4b1f-b04d-157ccda8e100_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/collections/Eternal_Collection_Cover_1024x1024.jpg?v=1664793701
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\collections\Eternal_Collection_Cover_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/1_20250107_154621_0000_1_1024x1024.jpg?v=1736928209
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\1_20250107_154621_0000_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/20230620_175747_0000_1024x1024.jpg?v=1688039122
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\20230620_175747_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/20230920_165402_0000_1_1024x1024.jpg?v=1695279680
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\20230920_165402_0000_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/20240326_141501_0000_1024x1024.jpg?v=1711625915
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\20240326_141501_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/20240326_141653_0000_1024x1024.jpg?v=1711625915
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\20240326_141653_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/20240326_173552_0000_1024x1024.jpg?v=1711613334
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\20240326_173552_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/2_20250107_154622_0001_1_1024x1024.jpg?v=1736928247
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\2_20250107_154622_0001_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/35B0BC64-E2A5-4E0E-BB49-B3619EEB9620.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\35B0BC64-E2A5-4E0E-BB49-B3619EEB9620.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/35B0BC64-E2A5-4E0E-BB49-B3619EEB9620_1024x1024.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\35B0BC64-E2A5-4E0E-BB49-B3619EEB9620_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/3_20220524_182233_0002_1024x1024.png?v=1653397547
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\3_20220524_182233_0002_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/3_20250107_154622_0002_1_1024x1024.jpg?v=1736928311
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\3_20250107_154622_0002_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/4_20220524_182233_0003_1024x1024.png?v=1653397547
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\4_20220524_182233_0003_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/4_20250107_154622_0003_1_1024x1024.jpg?v=1736928314
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\4_20250107_154622_0003_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/5C0005AA-1B93-409F-83A9-6895D74EC382.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\5C0005AA-1B93-409F-83A9-6895D74EC382.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/5C0005AA-1B93-409F-83A9-6895D74EC382_1024x1024.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\5C0005AA-1B93-409F-83A9-6895D74EC382_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/8E6E1F80-524C-45E1-BE79-EDF43A1B3034.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\8E6E1F80-524C-45E1-BE79-EDF43A1B3034.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/8E6E1F80-524C-45E1-BE79-EDF43A1B3034_1024x1024.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\8E6E1F80-524C-45E1-BE79-EDF43A1B3034_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/9B2F5666-A961-46D9-B2A3-8D5DA73880D3.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\9B2F5666-A961-46D9-B2A3-8D5DA73880D3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/9B2F5666-A961-46D9-B2A3-8D5DA73880D3_1024x1024.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\9B2F5666-A961-46D9-B2A3-8D5DA73880D3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/A5BE5963-6AF7-40C4-97F9-E728CA9AE32E.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\A5BE5963-6AF7-40C4-97F9-E728CA9AE32E.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/A5BE5963-6AF7-40C4-97F9-E728CA9AE32E_1024x1024.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\A5BE5963-6AF7-40C4-97F9-E728CA9AE32E_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/AFCC07A3-30BD-4B3E-8E8A-4D4E5DB04BB3.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\AFCC07A3-30BD-4B3E-8E8A-4D4E5DB04BB3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/AFCC07A3-30BD-4B3E-8E8A-4D4E5DB04BB3_1024x1024.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\AFCC07A3-30BD-4B3E-8E8A-4D4E5DB04BB3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Ambre_Lueur_1.jpg?v=1685358589
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Ambre_Lueur_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Ambre_Lueur_1_1024x1024.jpg?v=1685358589
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Ambre_Lueur_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Ambre_Lueur_2.jpg?v=1685358590
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Ambre_Lueur_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Ambre_Lueur_2_1024x1024.jpg?v=1685358590
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Ambre_Lueur_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Ambre_Lueur_3.jpg?v=1685358590
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Ambre_Lueur_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Ambre_Lueur_3_1024x1024.jpg?v=1685358590
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Ambre_Lueur_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_1.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_1_1024x1024.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_2.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_2_1024x1024.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_3.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_3_1024x1024.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_4.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Autumn-Woods_4_1024x1024.jpg?v=1727093761
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Autumn-Woods_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Blanc-1.jpg?v=1703758396
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Blanc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Blanc-1_1024x1024.jpg?v=1703758396
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Blanc-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Blanc-2.jpg?v=1703758396
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Blanc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Blanc-2_1024x1024.jpg?v=1703758396
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Blanc-2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Blanc-3.jpg?v=1703758396
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Blanc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Blanc-3_1024x1024.jpg?v=1703758396
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Blanc-3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/dd_2_1024x1024.png?v=1641387769
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\dd_2_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Desktop_Banners_1520_x_650_px__20240326_173343_0000_1024x1024.jpg?v=1711613302
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Desktop_Banners_1520_x_650_px__20240326_173343_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Desktop_Banners_1520_x_650_px__20240604_173536_0000_1024x1024.jpg?v=1717506399
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Desktop_Banners_1520_x_650_px__20240604_173536_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Desktop_Banners_1520_x_650_px__20240923_172509_0000_1024x1024.png?v=1727351655
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Desktop_Banners_1520_x_650_px__20240923_172509_0000_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Desktop_Banners_1520_x_650_px__20241206_153905_0000_1024x1024.png?v=1733560550
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Desktop_Banners_1520_x_650_px__20241206_153905_0000_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Desktop_Banners_1520_x_650_px__20250714_130606_0000_1_1024x1024.png?v=1752764837
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Desktop_Banners_1520_x_650_px__20250714_130606_0000_1_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/E6BBDDFD-09B5-4A9E-BAF1-E0ACF7622C4F.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\E6BBDDFD-09B5-4A9E-BAF1-E0ACF7622C4F.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/E6BBDDFD-09B5-4A9E-BAF1-E0ACF7622C4F_1024x1024.jpg?v=1734937332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\E6BBDDFD-09B5-4A9E-BAF1-E0ACF7622C4F_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-5.jpg?v=1750401474
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-5_1024x1024.jpg?v=1750401474
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-5_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-6.jpg?v=1750401474
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-6_1024x1024.jpg?v=1750401474
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-6_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-7.jpg?v=1750401474
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-7_1024x1024.jpg?v=1750401474
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-7_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-8.jpg?v=1701772788
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Esmer-8_1024x1024.jpg?v=1701772788
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Esmer-8_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/F10C0431-49F0-44FF-908C-BB96AB21D978.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\F10C0431-49F0-44FF-908C-BB96AB21D978.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/F10C0431-49F0-44FF-908C-BB96AB21D978_1024x1024.jpg?v=1751876668
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\F10C0431-49F0-44FF-908C-BB96AB21D978_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/jpg_20230322_173329_0000_1_1024x1024.jpg?v=1679653630
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\jpg_20230322_173329_0000_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Koselig_1-1.jpg?v=1685770374
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Koselig_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Koselig_1-1_1024x1024.jpg?v=1685770374
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Koselig_1-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Koselig_2.jpg?v=1685770374
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Koselig_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Koselig_2_1024x1024.jpg?v=1685770374
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Koselig_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Koselig_3.jpg?v=1685770374
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Koselig_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Koselig_3_1024x1024.jpg?v=1685770374
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Koselig_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-1-1.jpg?v=1711619863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-1-1_1024x1024.jpg?v=1711619863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-1-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-2-1.jpg?v=1711619863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-2-1_1024x1024.jpg?v=1711619863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-2-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-3-1.jpg?v=1711619863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-3-1_1024x1024.jpg?v=1711619863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-3-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-4-1.jpg?v=1711025645
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Liva-4-1_1024x1024.jpg?v=1711025645
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Liva-4-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaxSR1.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaxSR1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaxSR1_1024x1024.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaxSR1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaxSR2.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaxSR2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaxSR2_1024x1024.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaxSR2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaxSR3.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaxSR3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaxSR3_1024x1024.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaxSR3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaXSR4.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaXSR4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/MisaXSR4_1024x1024.jpg?v=1737385121
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\MisaXSR4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Mobile_Banners_Jan_2022_20240604_173845_0000_1024x1024.jpg?v=1717506399
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Mobile_Banners_Jan_2022_20240604_173845_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Mobile_Banners_Jan_2022_20240926_172836_0000_2_1024x1024.jpg?v=1727353229
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Mobile_Banners_Jan_2022_20240926_172836_0000_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Mobile_Banners_Jan_2022_20250714_125533_0000_1024x1024.jpg?v=1752588563
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Mobile_Banners_Jan_2022_20250714_125533_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_1.jpg?v=1717493960
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_1_1024x1024.jpg?v=1717493960
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_2.jpg?v=1717493960
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_2_1024x1024.jpg?v=1717493960
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_3.jpg?v=1717492111
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_3_1024x1024.jpg?v=1717492111
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_4.jpg?v=1717492111
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/New-Wayfarer_4_1024x1024.jpg?v=1717492111
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\New-Wayfarer_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-19-06-097.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-19-06-097.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-19-06-097_1024x1024.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-19-06-097_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-20-44-521.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-20-44-521.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-20-44-521_1024x1024.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-20-44-521_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-21-30-665.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-21-30-665.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-21-30-665_1024x1024.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-21-30-665_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-22-12-960.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-22-12-960.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-05_16-22-12-960_1024x1024.jpg?v=1725534437
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-05_16-22-12-960_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-10_14-33-48-663.jpg?v=1725959135
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-10_14-33-48-663.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart-24-09-10_14-33-48-663_1024x1024.jpg?v=1725959135
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart-24-09-10_14-33-48-663_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/PicsArt_03-03-05.12.06.png?v=1614771744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\PicsArt_03-03-05.12.06.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-05_14-46-39-220.jpg?v=1685959333
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-05_14-46-39-220.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-05_14-46-39-220_1024x1024.jpg?v=1685959333
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-05_14-46-39-220_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-05_14-49-14-012.jpg?v=1685959334
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-05_14-49-14-012.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-05_14-49-14-012_1024x1024.jpg?v=1685959334
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-05_14-49-14-012_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-05_14-59-17-900.png?v=1685959333
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-05_14-59-17-900.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-05_14-59-17-900_1024x1024.png?v=1685959333
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-05_14-59-17-900_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-06_13-18-00-039.png?v=1686038152
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-06_13-18-00-039.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-06_13-18-00-039_1024x1024.png?v=1686038152
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-06_13-18-00-039_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-15_19-20-37-048_1024x1024.jpg?v=1686904366
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-15_19-20-37-048_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-15_19-23-29-056_1024x1024.jpg?v=1686904427
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-15_19-23-29-056_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-15_19-28-19-331_1024x1024.jpg?v=1686904318
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-15_19-28-19-331_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_23-06-16_14-08-34-445_1024x1024.jpg?v=1687156046
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_23-06-16_14-08-34-445_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-01-21_15-43-29-832.jpg?v=1738048752
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-01-21_15-43-29-832.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-01-21_15-43-29-832_1024x1024.jpg?v=1738048752
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-01-21_15-43-29-832_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-07-15_14-01-24-510.jpg?v=1752668501
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-07-15_14-01-24-510.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-07-15_14-01-24-510_1024x1024.jpg?v=1752668501
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-07-15_14-01-24-510_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-07-15_14-01-57-788.jpg?v=1752668501
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-07-15_14-01-57-788.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-07-15_14-01-57-788_1024x1024.jpg?v=1752668501
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-07-15_14-01-57-788_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-07-15_14-02-24-664.png?v=1752667696
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-07-15_14-02-24-664.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Picsart_25-07-15_14-02-24-664_1024x1024.png?v=1752667696
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Picsart_25-07-15_14-02-24-664_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_1.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_1_1024x1024.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_2.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_2_1024x1024.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_3.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_3_1024x1024.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_4.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sacred-Sanctuary_4_1024x1024.jpg?v=1723101171
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sacred-Sanctuary_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sienna-Single_1.jpg?v=1703836383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sienna-Single_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sienna-Single_1_1024x1024.jpg?v=1703836383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sienna-Single_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sienna-Single_2.jpg?v=1703836383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sienna-Single_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sienna-Single_2_1024x1024.jpg?v=1703836383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sienna-Single_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sienna-Single_3.jpg?v=1703836383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sienna-Single_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sienna-Single_3_1024x1024.jpg?v=1703836383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sienna-Single_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/simple_logo_500x_w_500x.png?v=1624880194
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\simple_logo_500x_w_500x.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/simple_logo_500x_w_7b0e53f3-7482-4346-aa09-bebb61ed2c19_500x.png?v=1624880211
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\simple_logo_500x_w_7b0e53f3-7482-4346-aa09-bebb61ed2c19_500x.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/files/Sunset-Serenade_1.jpg?v=1725448989
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sunset-Serenade_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sunset-Serenade_1_1024x1024.jpg?v=1725448989
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sunset-Serenade_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sunset-Serenade_2.jpg?v=1725448989
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sunset-Serenade_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sunset-Serenade_2_1024x1024.jpg?v=1725448989
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sunset-Serenade_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sunset-Serenade_3.jpg?v=1725448989
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sunset-Serenade_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/Sunset-Serenade_3_1024x1024.jpg?v=1725448989
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\Sunset-Serenade_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/files/The_Happy_Space_1024x1024.jpg?v=1629272768
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\files\The_Happy_Space_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/0-17739803715_20210303_234628_0000.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\0-17739803715_20210303_234628_0000.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/0-17739803715_20210303_234628_0000_1024x1024.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\0-17739803715_20210303_234628_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/0009-6394276670_20210822_145217_0000.jpg?v=1629624167
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\0009-6394276670_20210822_145217_0000.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/0009-6394276670_20210822_145217_0000_1024x1024.jpg?v=1629624167
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\0009-6394276670_20210822_145217_0000_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/3_20210305_114318_0002.png?v=1632083382
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\3_20210305_114318_0002.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/3_20210305_114318_0002_1024x1024.png?v=1632083382
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\3_20210305_114318_0002_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet1.jpg?v=1632081332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet1_1024x1024.jpg?v=1632081332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet2.jpg?v=1632081332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet2_1024x1024.jpg?v=1632081332
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet3.jpg?v=1631250155
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet3_1024x1024.jpg?v=1631250155
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet4.jpg?v=1631250155
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/AccessoriesSet4_1024x1024.jpg?v=1631250155
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\AccessoriesSet4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/BareAllure1.jpg?v=1642761670
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\BareAllure1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/BareAllure1_1024x1024.jpg?v=1642761670
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\BareAllure1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/BareAllure2.jpg?v=1642761670
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\BareAllure2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/BareAllure2_1024x1024.jpg?v=1642761670
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\BareAllure2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/BareAllure3.jpg?v=1642761670
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\BareAllure3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/BareAllure3_1024x1024.jpg?v=1642761670
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\BareAllure3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Come_Undone_1.jpg?v=1648106329
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Come_Undone_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Come_Undone_1_1024x1024.jpg?v=1648106329
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Come_Undone_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Come_Undone_2.jpg?v=1648106383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Come_Undone_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Come_Undone_2_1024x1024.jpg?v=1648106383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Come_Undone_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Come_Undone_3.jpg?v=1648106383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Come_Undone_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Come_Undone_3_1024x1024.jpg?v=1648106383
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Come_Undone_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/DewyNights2.jpg?v=1631824420
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\DewyNights2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/DewyNights2_1024x1024.jpg?v=1631824420
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\DewyNights2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/EnchantedForest2.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\EnchantedForest2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/EnchantedForest2_1024x1024.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\EnchantedForest2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/EnchantedForest3.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\EnchantedForest3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/EnchantedForest3_1024x1024.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\EnchantedForest3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/EnchantedForest5.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\EnchantedForest5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/EnchantedForest5_1024x1024.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\EnchantedForest5_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/FarawayLove1.jpg?v=1641898817
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\FarawayLove1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/FarawayLove1_1024x1024.jpg?v=1641898817
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\FarawayLove1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/FarawayLove2.jpg?v=1641898817
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\FarawayLove2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/FarawayLove2_1024x1024.jpg?v=1641898817
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\FarawayLove2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/FarawayLove4.jpg?v=1641898817
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\FarawayLove4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/FarawayLove4_1024x1024.jpg?v=1641898817
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\FarawayLove4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Fireside_1.jpg?v=1669704575
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Fireside_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Fireside_1_1024x1024.jpg?v=1669704575
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Fireside_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Fireside_2.jpg?v=1669704576
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Fireside_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Fireside_2_1024x1024.jpg?v=1669704576
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Fireside_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Fireside_3.jpg?v=1669704575
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Fireside_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Fireside_3_1024x1024.jpg?v=1669704575
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Fireside_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_1.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_1_1024x1024.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_2.jpg?v=1655118426
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_2_1024x1024.jpg?v=1655118426
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_3.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_3_1024x1024.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_4.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_4_1024x1024.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_5.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Gold_Accessories_Set_5_1024x1024.jpg?v=1655118425
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Gold_Accessories_Set_5_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge1.jpg?v=1739951832
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge1_1024x1024.jpg?v=1739951832
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge2.jpg?v=1739951832
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge2_1024x1024.jpg?v=1739951832
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge3.jpg?v=1627326115
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge3_1024x1024.jpg?v=1627326115
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge4.jpg?v=1739951832
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Hygge4_1024x1024.jpg?v=1739951832
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Hygge4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image.jpg?v=1633545906
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image.png?v=1643041504
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/image_1024x1024.jpg?v=1633545906
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_1024x1024.png?v=1643041504
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/image_2d3522f7-99b8-42b1-8c9a-1e8e4b6b2ee2.jpg?v=1633545908
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_2d3522f7-99b8-42b1-8c9a-1e8e4b6b2ee2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_2d3522f7-99b8-42b1-8c9a-1e8e4b6b2ee2_1024x1024.jpg?v=1633545908
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_2d3522f7-99b8-42b1-8c9a-1e8e4b6b2ee2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_2ebaa0a7-a03e-489f-9fd9-639ef85a3139.jpg?v=1641309709
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_2ebaa0a7-a03e-489f-9fd9-639ef85a3139.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_2ebaa0a7-a03e-489f-9fd9-639ef85a3139_1024x1024.jpg?v=1641309709
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_2ebaa0a7-a03e-489f-9fd9-639ef85a3139_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_45327a73-09b8-42e5-bcdf-4e716fabfd42.png?v=1641553020
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_45327a73-09b8-42e5-bcdf-4e716fabfd42.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/image_45327a73-09b8-42e5-bcdf-4e716fabfd42_1024x1024.png?v=1641553020
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_45327a73-09b8-42e5-bcdf-4e716fabfd42_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/image_95ab1f3a-9ad6-4e68-a516-fdc8489f9b4d.jpg?v=1634211470
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_95ab1f3a-9ad6-4e68-a516-fdc8489f9b4d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_95ab1f3a-9ad6-4e68-a516-fdc8489f9b4d_1024x1024.jpg?v=1634211470
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_95ab1f3a-9ad6-4e68-a516-fdc8489f9b4d_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_a0bb5c5e-0879-43b9-b7c2-71c53e4a696a.png?v=1643306145
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_a0bb5c5e-0879-43b9-b7c2-71c53e4a696a.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/image_a0bb5c5e-0879-43b9-b7c2-71c53e4a696a_1024x1024.png?v=1643306145
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_a0bb5c5e-0879-43b9-b7c2-71c53e4a696a_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/image_a23da7eb-84bd-4169-b510-e0018d685f88.jpg?v=1634211466
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_a23da7eb-84bd-4169-b510-e0018d685f88.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_a23da7eb-84bd-4169-b510-e0018d685f88_1024x1024.jpg?v=1634211466
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_a23da7eb-84bd-4169-b510-e0018d685f88_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_c5f6701a-7616-470e-948e-3814701e0812.jpg?v=1634211460
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_c5f6701a-7616-470e-948e-3814701e0812.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/image_c5f6701a-7616-470e-948e-3814701e0812_1024x1024.jpg?v=1634211460
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\image_c5f6701a-7616-470e-948e-3814701e0812_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Kairos3.jpg?v=1633547295
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Kairos3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Kairos3_1024x1024.jpg?v=1633547295
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Kairos3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom1.jpg?v=1627068211
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom1_1024x1024.jpg?v=1627068211
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomGold2.jpg?v=1643043292
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomGold2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomGold2_1024x1024.jpg?v=1643043292
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomGold2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomGold3.jpg?v=1643043292
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomGold3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomGold3_1024x1024.jpg?v=1643043292
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomGold3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomGoldNote.png?v=1643043292
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomGoldNote.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/LagomGoldNote_1024x1024.png?v=1643043292
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomGoldNote_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRose1.jpg?v=1642610543
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRose1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRose1_1024x1024.jpg?v=1642610543
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRose1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRose2.jpg?v=1643807275
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRose2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRose2_1024x1024.jpg?v=1643807275
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRose2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRose3.jpg?v=1643807275
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRose3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRose3_1024x1024.jpg?v=1643807275
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRose3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRoseNote.png?v=1643043242
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRoseNote.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/LagomRoseNote_1024x1024.png?v=1643043242
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\LagomRoseNote_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_1.jpg?v=1649152943
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_1_1024x1024.jpg?v=1649152943
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_2.jpg?v=1649152943
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_2_1024x1024.jpg?v=1649152943
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_3.jpg?v=1649152942
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_3_1024x1024.jpg?v=1649152942
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_4.jpg?v=1649152942
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lagom_Musk_4_1024x1024.jpg?v=1649152942
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lagom_Musk_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lykke20214.jpg?v=1658565561
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lykke20214.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Lykke20214_1024x1024.jpg?v=1658565561
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Lykke20214_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/MagicFleur4.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\MagicFleur4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/MagicFleur4_1024x1024.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\MagicFleur4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/MagicFleur7.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\MagicFleur7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/MagicFleur7_1024x1024.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\MagicFleur7_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Misty_Garden_4.jpg?v=1676901752
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Misty_Garden_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Misty_Garden_4_1024x1024.jpg?v=1676901752
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Misty_Garden_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Mountain_Dawn_1.jpg?v=1659353549
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Mountain_Dawn_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Mountain_Dawn_1_1024x1024.jpg?v=1659353549
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Mountain_Dawn_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Mountain_Dawn_2.jpg?v=1659353549
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Mountain_Dawn_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Mountain_Dawn_2_1024x1024.jpg?v=1659353549
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Mountain_Dawn_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Mountain_Dawn_3.jpg?v=1659353548
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Mountain_Dawn_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Mountain_Dawn_3_1024x1024.jpg?v=1659353548
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Mountain_Dawn_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/MysticDreams5.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\MysticDreams5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/MysticDreams5_1024x1024.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\MysticDreams5_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/NewBeginnings2.jpg?v=1643041504
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\NewBeginnings2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/NewBeginnings2_1024x1024.jpg?v=1643041504
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\NewBeginnings2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/NewBeginnings3.jpg?v=1643041504
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\NewBeginnings3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/NewBeginnings3_1024x1024.jpg?v=1643041504
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\NewBeginnings3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Noir2.jpg?v=1627066389
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Noir2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Noir2_1024x1024.jpg?v=1627066389
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Noir2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Noir2_4728ca0c-e828-46f3-bf93-a36eeea976d8.jpg?v=1642613460
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Noir2_4728ca0c-e828-46f3-bf93-a36eeea976d8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Noir2_4728ca0c-e828-46f3-bf93-a36eeea976d8_1024x1024.jpg?v=1642613460
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Noir2_4728ca0c-e828-46f3-bf93-a36eeea976d8_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Noir4.jpg?v=1642612956
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Noir4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Noir4_1024x1024.jpg?v=1642612956
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Noir4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-16-03.19.47.jpg?v=1627824863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-16-03.19.47.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-16-03.19.47_1024x1024.jpg?v=1627824863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-16-03.19.47_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-16-03.26.57.jpg?v=1632856043
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-16-03.26.57.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-16-03.26.57_1024x1024.jpg?v=1632856043
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-16-03.26.57_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-17-10.59.55.jpg?v=1627824863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-17-10.59.55.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-17-10.59.55_1024x1024.jpg?v=1627824863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-17-10.59.55_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-23-08.03.05.jpg?v=1631710722
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-23-08.03.05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_05-23-08.03.05_1024x1024.jpg?v=1631710722
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_05-23-08.03.05_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-02.57.23.jpg?v=1676901453
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-02.57.23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-02.57.23_1024x1024.jpg?v=1676901453
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-02.57.23_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.21.59.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.21.59.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.21.59_1024x1024.jpg?v=1627066361
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.21.59_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.24.28.jpg?v=1627066764
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.24.28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.24.28_1024x1024.jpg?v=1627066764
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.24.28_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.25.00.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.25.00.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.25.00_1024x1024.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.25.00_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.27.00.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.27.00.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.27.00_1024x1024.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.27.00_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.33.18.jpg?v=1632856040
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.33.18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-24-12.33.18_1024x1024.jpg?v=1632856040
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-24-12.33.18_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-30-10.55.50-01.jpg?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-30-10.55.50-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_07-30-10.55.50-01_1024x1024.jpg?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_07-30-10.55.50-01_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-04.39.40.jpg?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-04.39.40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-04.39.40_1024x1024.jpg?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-04.39.40_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-05.58.16.png?v=1676901667
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-05.58.16.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-05.58.16_1024x1024.png?v=1676901667
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-05.58.16_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-05.59.48.png?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-05.59.48.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-05.59.48_1024x1024.png?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-05.59.48_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.01.18.png?v=1629139796
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.01.18.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.01.18_1024x1024.png?v=1629139796
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.01.18_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.02.31.png?v=1627821746
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.02.31.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.02.31_1024x1024.png?v=1627821746
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.02.31_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.09.24.jpg?v=1629303564
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.09.24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.09.24_1024x1024.jpg?v=1629303564
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.09.24_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.10.29.jpg?v=1629303564
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.10.29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.10.29_1024x1024.jpg?v=1629303564
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.10.29_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.11.26.jpg?v=1627821746
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.11.26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.11.26_1024x1024.jpg?v=1627821746
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.11.26_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.16.25.jpg?v=1627822372
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.16.25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.16.25_1024x1024.jpg?v=1627822372
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.16.25_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.19.18.jpg?v=1630350119
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.19.18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.19.18_1024x1024.jpg?v=1630350119
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.19.18_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.21.12.jpg?v=1628111851
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.21.12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.21.12_1024x1024.jpg?v=1628111851
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.21.12_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.45.40.jpg?v=1676901667
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.45.40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.45.40_1024x1024.jpg?v=1676901667
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.45.40_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.52.13.jpg?v=1676901667
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.52.13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-06.52.13_1024x1024.jpg?v=1676901667
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-06.52.13_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-07.03.44.jpg?v=1627824863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-07.03.44.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-07.03.44_1024x1024.jpg?v=1627824863
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-07.03.44_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-07.05.47.jpg?v=1627824967
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-07.05.47.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-01-07.05.47_1024x1024.jpg?v=1627824967
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-01-07.05.47_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-05-11.39.35.jpg?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-05-11.39.35.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-05-11.39.35_1024x1024.jpg?v=1629653720
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-05-11.39.35_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-15-01.36.06.png?v=1632083382
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-15-01.36.06.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-15-01.36.06_1024x1024.png?v=1632083382
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-15-01.36.06_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-17-12.14.18.jpg?v=1629144211
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-17-12.14.18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-17-12.14.18_1024x1024.jpg?v=1629144211
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-17-12.14.18_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-17-12.16.44.jpg?v=1629144263
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-17-12.16.44.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-17-12.16.44_1024x1024.jpg?v=1629144263
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-17-12.16.44_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-17-12.18.31.jpg?v=1629144263
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-17-12.18.31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-17-12.18.31_1024x1024.jpg?v=1629144263
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-17-12.18.31_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-22-02.28.31.jpg?v=1629624164
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-22-02.28.31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-22-02.28.31_1024x1024.jpg?v=1629624164
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-22-02.28.31_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-22-02.34.29.jpg?v=1629624164
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-22-02.34.29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-22-02.34.29_1024x1024.jpg?v=1629624164
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-22-02.34.29_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-22-02.38.39.jpg?v=1635060947
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-22-02.38.39.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-22-02.38.39_1024x1024.jpg?v=1635060947
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-22-02.38.39_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-30-02.22.39.jpg?v=1676901752
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-30-02.22.39.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-30-02.22.39_1024x1024.jpg?v=1676901752
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-30-02.22.39_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-30-02.24.51.jpg?v=1676901453
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-30-02.24.51.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_08-30-02.24.51_1024x1024.jpg?v=1676901453
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_08-30-02.24.51_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-15-01.42.42.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-15-01.42.42.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-15-01.42.42_1024x1024.jpg?v=1641310403
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-15-01.42.42_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-15-01.52.28.jpg?v=1631824418
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-15-01.52.28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-15-01.52.28_1024x1024.jpg?v=1631824418
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-15-01.52.28_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-17-02.00.34.jpg?v=1631824420
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-17-02.00.34.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-17-02.00.34_1024x1024.jpg?v=1631824420
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-17-02.00.34_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-19-02.14.35.png?v=1676901453
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-19-02.14.35.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-19-02.14.35_1024x1024.png?v=1676901453
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-19-02.14.35_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-20-01.58.14.png?v=1632083382
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-20-01.58.14.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-20-01.58.14_1024x1024.png?v=1632083382
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-20-01.58.14_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-29-12.31.56-01.jpg?v=1632856043
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-29-12.31.56-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_09-29-12.31.56-01_1024x1024.jpg?v=1632856043
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_09-29-12.31.56-01_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_10-14-12.32.59.jpg?v=1634195104
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_10-14-12.32.59.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_10-14-12.32.59_1024x1024.jpg?v=1634195104
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_10-14-12.32.59_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-09-11.47.51-01.jpg?v=1636480973
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-09-11.47.51-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-09-11.47.51-01_1024x1024.jpg?v=1636480973
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-09-11.47.51-01_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-09-11.51.58-01.jpg?v=1636480973
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-09-11.51.58-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-09-11.51.58-01_1024x1024.jpg?v=1636480973
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-09-11.51.58-01_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-16-04.40.55.jpg?v=1637061089
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-16-04.40.55.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-16-04.40.55_1024x1024.jpg?v=1637061089
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-16-04.40.55_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-29-10.59.46.jpg?v=1638163834
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-29-10.59.46.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PicsArt_11-29-10.59.46_1024x1024.jpg?v=1638163834
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PicsArt_11-29-10.59.46_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-01-19_23-05-52-645.jpg?v=1642614400
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-01-19_23-05-52-645.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-01-19_23-05-52-645_1024x1024.jpg?v=1642614400
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-01-19_23-05-52-645_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-03-14_20-44-17-518.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-03-14_20-44-17-518.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-03-14_20-44-17-518_1024x1024.jpg?v=1647271034
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-03-14_20-44-17-518_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-03-25_14-03-27-660.png?v=1648204468
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-03-25_14-03-27-660.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-03-25_14-03-27-660_1024x1024.png?v=1648204468
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-03-25_14-03-27-660_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-04-08_16-09-37-321.png?v=1649415044
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-04-08_16-09-37-321.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-04-08_16-09-37-321_1024x1024.png?v=1649415044
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-04-08_16-09-37-321_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-06-22_12-07-54-982.png?v=1655894272
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-06-22_12-07-54-982.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-06-22_12-07-54-982_1024x1024.png?v=1655894272
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-06-22_12-07-54-982_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-06-22_13-18-42-706.png?v=1655894229
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-06-22_13-18-42-706.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-06-22_13-18-42-706_1024x1024.png?v=1655894229
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-06-22_13-18-42-706_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-06-27_16-32-56-960.png?v=1656327964
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-06-27_16-32-56-960.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-06-27_16-32-56-960_1024x1024.png?v=1656327964
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-06-27_16-32-56-960_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-08-08_17-07-58-739.png?v=1660029608
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-08-08_17-07-58-739.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-08-08_17-07-58-739_1024x1024.png?v=1660029608
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-08-08_17-07-58-739_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-09-21_19-04-38-606.png?v=1663829347
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-09-21_19-04-38-606.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-09-21_19-04-38-606_1024x1024.png?v=1663829347
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-09-21_19-04-38-606_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-12-13_16-24-41-614.png?v=1670930041
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-12-13_16-24-41-614.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-12-13_16-24-41-614_1024x1024.png?v=1670930041
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-12-13_16-24-41-614_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-12-21_01-33-28-765.jpg?v=1685959333
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-12-21_01-33-28-765.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Picsart_22-12-21_01-33-28-765_1024x1024.jpg?v=1685959333
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Picsart_22-12-21_01-33-28-765_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie1.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie1_1024x1024.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie2.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie2_1024x1024.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie3.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie3_1024x1024.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie4.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Prairie4_1024x1024.jpg?v=1663580352
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Prairie4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/PrairieGoodtoNote.png?v=1663584379
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PrairieGoodtoNote.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/PrairieGoodtoNote_1024x1024.png?v=1663584379
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\PrairieGoodtoNote_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_1.jpg?v=1656140031
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_1_1024x1024.jpg?v=1656140031
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_2.jpg?v=1656140032
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_2_1024x1024.jpg?v=1656140032
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_3.jpg?v=1656140031
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_3_1024x1024.jpg?v=1656140031
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_4.jpg?v=1656140032
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Seaside_Breeze_4_1024x1024.jpg?v=1656140032
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Seaside_Breeze_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Sienna_1.jpg?v=1671173522
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Sienna_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Sienna_1_1024x1024.jpg?v=1671173522
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Sienna_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Snuffer2.jpg?v=1643044289
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Snuffer2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Snuffer2_1024x1024.jpg?v=1643044289
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Snuffer2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Snuffer3.jpg?v=1643043966
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Snuffer3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Snuffer3_1024x1024.jpg?v=1643043966
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Snuffer3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Snuffer4.jpg?v=1643044289
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Snuffer4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Snuffer4_1024x1024.jpg?v=1643044289
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Snuffer4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/SnufferBlack1.jpg?v=1643044289
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\SnufferBlack1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/SnufferBlack1_1024x1024.jpg?v=1643044289
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\SnufferBlack1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong2.jpg?v=1665672744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong2_1024x1024.jpg?v=1665672744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong3.jpg?v=1665672744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong3_1024x1024.jpg?v=1665672744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong4.jpg?v=1664794110
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong4_1024x1024.jpg?v=1664794110
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/SwansongNote.png?v=1664794110
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\SwansongNote.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/SwansongNote_1024x1024.png?v=1664794110
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\SwansongNote_1024x1024.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong_1.jpg?v=1665672744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/Swansong_1_1024x1024.jpg?v=1665672744
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\Swansong_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/TheWishlist.jpg?v=1632856043
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\TheWishlist.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/products/TheWishlist_1024x1024.jpg?v=1632856043
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\products\TheWishlist_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/azexo-extension-debut.css?v=102839059142894610861695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\azexo-extension-debut.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/azexo.css?v=179569013527159977441695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\azexo.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/azexo.js?v=49881460067974728791695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\azexo.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/cbox_border1.png?v=113436874971659238651695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\cbox_border1.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/cbox_border2.png?v=142803151667698387151695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\cbox_border2.png
+Content Type: image/png
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_all_product_msg.js?v=108840368777819333221695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_all_product_msg.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_collection_msg.js?v=130879527554976694821695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_collection_msg.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_exclude_product.js?v=50353361297173646151695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_exclude_product.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_general_settings.js?v=167592723614567666231695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_general_settings.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_product_tag_msg.js?v=8380619751686092641695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_product_tag_msg.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_product_vendor_msg.js?v=52388043027845322851695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_product_vendor_msg.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/edd_specific_product_msg.js?v=136012229591074505521695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\edd_specific_product_msg.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/globo.formbuilder.css?v=99582608902360704521695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\globo.formbuilder.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/globo.formbuilder.data.27964.js?v=161521658321944530261695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\globo.formbuilder.data.27964.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/globo.formbuilder.js?v=128029927922948099631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\globo.formbuilder.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/loading.gif?v=115678512110750922101695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\loading.gif
+Content Type: image/gif
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/ndnapps-sociallogin-script.js?v=135348679910897847791695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\ndnapps-sociallogin-script.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/ndnapps-sociallogin.css?v=47278050551993041831695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\ndnapps-sociallogin.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-100933435644.css?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-100933435644.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-100933435644.js?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-100933435644.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-71032733861.css?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-71032733861.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-71032733861.js?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-71032733861.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-72120762533.css?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-72120762533.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-72120762533.js?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-72120762533.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-73456189605.css?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-73456189605.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-73456189605.js?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-73456189605.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-98307014908.css?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-98307014908.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/page.azexo-98307014908.js?v=111603181540343972631695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\page.azexo-98307014908.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/sca-pp.css?v=178374312540912810101695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\sca-pp.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/sectionhub.js?v=104620349252261057651695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\sectionhub.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/styles.css?v=140708782820342853611712570499
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\styles.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/theme.js?v=57745840827715086071695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\theme.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/theme.old.js?v=155144059114838048181695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\theme.old.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shop/t/46/assets/vendor.js?v=26564483382332717901695278487
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shop\t\46\assets\vendor.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.6.6.min.js
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shopifycloud\perf-kit\shopify-perf-kit-1.6.6.min.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shopifycloud\portable-wallets\latest\accelerated-checkout-backwards-compat.css
+Content Type: text/css
+
+Uri: https://www.misa.in/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shopifycloud\portable-wallets\latest\portable-wallets.en.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/cdn/shopifycloud/storefront/assets/storefront/load_feature-02966510.js
+File Name: C:\Downloaded Web Sites\www.misa.in\cdn\shopifycloud\storefront\assets\storefront\load_feature-02966510.js
+Content Type: text/javascript
+
+Uri: https://www.misa.in/checkouts/internal/preloads.js?locale=en-IN
+File Name: C:\Downloaded Web Sites\www.misa.in\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://www.misa.in/collections
+File Name: C:\Downloaded Web Sites\www.misa.in\collections.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/accessories
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\accessories.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/accessories.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\accessories.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/accessories.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\accessories.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/accessories/products/accessories-set
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\accessories\products\accessories-set.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/accessories/products/accessories-set-gold
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\accessories\products\accessories-set-gold.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/accessories/products/snuffer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\accessories\products\snuffer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/all-products.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/all-products.oembed?page=2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/all-products.oembed?page=3
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-2.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/all-products/products/accessories-set
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\accessories-set.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/accessories-set-gold
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\accessories-set-gold.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/autumn-woods
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\autumn-woods.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/blanc
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\blanc.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/claret
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\claret.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/digital-gift-card
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\digital-gift-card.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/esmer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\esmer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/faraway-love
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\faraway-love.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/fireside
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\fireside.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/gift-wrap
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\gift-wrap.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/glade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\glade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/hygge
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\hygge.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/kairos
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\kairos.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/koselig-2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\koselig-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/lagom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\lagom.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/lagom-glow
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\lagom-glow.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/lagom-musk
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\lagom-musk.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/lagom-rose
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\lagom-rose.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/liva
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\liva.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/lumi
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\lumi.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/lykke
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\lykke.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/magic-fleur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\magic-fleur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/misa-x-sleep-rituals
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\misa-x-sleep-rituals.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/misty-garden
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\misty-garden.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/morning-blush
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\morning-blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/mountain-dawn
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\mountain-dawn.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/new-beginnings
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\new-beginnings.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/precious-letter
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\precious-letter.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/sacred-sanctuary
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\sacred-sanctuary.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/sienna
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\sienna.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/snuffer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\snuffer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/soul-mate
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\soul-mate.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/sunset-serenade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\sunset-serenade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/wayfarer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\wayfarer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products/products/woody-bliss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products\products\woody-bliss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=1
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-4.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=1&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjIwLCJkIjoiYiIsInVpZCI6MjgzNDYyOTgzMzUzOTcsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6MX0.aC7SIwFSbmLnpzGL6WIs0RGbK_SoWMb5AbFZdi3X2rU
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-5.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-1.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjE5LCJkIjoiZiIsInVpZCI6Mjk5NDA1ODk5NTMxODksImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.UKoU5HNKjkteo6q-VE20J99QeZj0TxgiAXJnR3rFM7s
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjQ3LCJkIjoiYiIsInVpZCI6MzMxMjI5Njg3MzE5MDAsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.T3Qi_qYL_j-gThsNGHFYR0oAw4VCdm28kTSQQn3Bq9Q
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-7.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=3
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-3.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/all-products?page=3&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjQ2LCJkIjoiZiIsInVpZCI6MzMwMjE3MTc2NDM1MTYsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6M30.X1d4ArOgXerj6ny1Co3Lxdc9SSIZl0YP0m_o2xDwF-4
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\all-products-6.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/best-sellers.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/best-sellers.oembed?page=2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/best-sellers/products/accessories-set
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\accessories-set.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/accessories-set-gold
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\accessories-set-gold.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/blanc
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\blanc.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/esmer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\esmer
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/hygge
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\hygge.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/lagom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\lagom.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/lagom-musk
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\lagom-musk.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/lagom-rose
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\lagom-rose.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/lumi
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\lumi.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/magic-fleur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\magic-fleur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/morning-blush
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\morning-blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/new-beginnings
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\new-beginnings.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/sacred-sanctuary
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\sacred-sanctuary.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/sienna
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\sienna.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/snuffer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\snuffer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/soul-mate
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\soul-mate.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/sunset-serenade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\sunset-serenade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers/products/woody-bliss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers\products\woody-bliss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers?page=1
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers-3.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers?page=1&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjIxLCJkIjoiYiIsInVpZCI6MzE3MzY1NjE0Njc2NDQsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6MX0.H3DoJFVcD4vOkVKFvtQTtcxVx5lGaf9tZrT23k-o758
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers-4.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers?page=2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers-1.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/best-sellers?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjIwLCJkIjoiZiIsInVpZCI6MzE3MzY1NjEzNjkzNDAsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.PjQPX9Fcg4xbJvGghtI1UdDmxkIXstRjk1RFs2EYBC0
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\best-sellers-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/blush.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/blush/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/blanc
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\blanc.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/faraway-love
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\faraway-love.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/lagom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\lagom.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/lagom-glow
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\lagom-glow.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/lagom-musk
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\lagom-musk.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/lagom-rose
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\lagom-rose.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/magic-fleur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\magic-fleur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/blush/products/precious-letter
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\blush\products\precious-letter.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/candles.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/candles.oembed?page=2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/candles/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/autumn-woods
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\autumn-woods.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/blanc
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\blanc.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/claret
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\claret.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/faraway-love
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\faraway-love.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/fireside
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\fireside.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/glade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\glade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/magic-fleur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\magic-fleur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/misty-garden
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\misty-garden.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/morning-blush
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\morning-blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/mountain-dawn
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\mountain-dawn.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/new-beginnings
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\new-beginnings.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/precious-letter
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\precious-letter.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/sacred-sanctuary
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\sacred-sanctuary.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/soul-mate
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\soul-mate.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/sunset-serenade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\sunset-serenade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles/products/woody-bliss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles\products\woody-bliss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles?page=1
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles-3.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles?page=1&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjIwLCJkIjoiYiIsInVpZCI6MzE3MTY4ODI2NzgwMTIsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6MX0.TRNXIhd8DjLB2bOrv9obHJfaXsUb-qpLVBIGV2yN_Tc
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles-4.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles?page=2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles-1.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/candles?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjE5LCJkIjoiZiIsInVpZCI6MzE3MTY4ODI3MTA3ODAsImwiOjE4LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.jzqhyUZFxQ9eRPOYUl3M0pysbi5d_7KrlI65jm3TQ70
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\candles-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/carmen
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/carmen.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/carmen.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/carmen/products/autumn-woods
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen\products\autumn-woods.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/carmen/products/glade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen\products\glade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/carmen/products/sacred-sanctuary
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen\products\sacred-sanctuary.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/carmen/products/sunset-serenade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\carmen\products\sunset-serenade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/day-time.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/day-time/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/esmer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\esmer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/fireside
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\fireside.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/day-time/products/woody-bliss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\day-time\products\woody-bliss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/floral.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/floral/products/blanc
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\blanc.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/faraway-love
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\faraway-love.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/lumi
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\lumi.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/magic-fleur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\magic-fleur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/misty-garden
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\misty-garden.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/precious-letter
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\precious-letter.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/sienna
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\sienna.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/floral/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\floral\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/forever.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/forever/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/kairos
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\kairos.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/koselig-2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\koselig-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/misty-garden
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\misty-garden.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/new-beginnings
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\new-beginnings.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/forever/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\forever\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/fresh-invigorating.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/lumi
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\lumi.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/morning-blush
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\morning-blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/mountain-dawn
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\mountain-dawn.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/new-beginnings
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\new-beginnings.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/sienna
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\sienna.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/soul-mate
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\soul-mate.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/fresh-invigorating/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\fresh-invigorating\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/gifts-collection.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/gifts-collection/products/digital-gift-card
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\digital-gift-card.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/esmer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\esmer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/glade
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\glade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/hygge
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\hygge.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/kairos
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\kairos.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/koselig-2
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\koselig-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/lagom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\lagom.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/lagom-glow
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\lagom-glow.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/lagom-musk
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\lagom-musk.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/lagom-rose
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\lagom-rose.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/liva
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\liva.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/lumi
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\lumi.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/lykke
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\lykke.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/misa-x-sleep-rituals
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\misa-x-sleep-rituals.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/sienna
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\sienna.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/gifts-collection/products/wayfarer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\gifts-collection\products\wayfarer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/romantic.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/romantic/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/esmer
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\esmer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/romantic/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\romantic\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/serendipity.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/serendipity/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/hygge
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\hygge.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/liva
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\liva.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/lykke
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\lykke.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/morning-blush
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\morning-blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/mountain-dawn
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\mountain-dawn.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/soul-mate
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\soul-mate.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/serendipity/products/woody-bliss
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\serendipity\products\woody-bliss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/special-edition
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\special-edition.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/special-edition.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\special-edition.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/special-edition.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\special-edition.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/special-edition/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\special-edition\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/special-edition/products/claret
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\special-edition\products\claret.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/special-edition/products/misa-x-sleep-rituals
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\special-edition\products\misa-x-sleep-rituals.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/the-eternal-collection
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\the-eternal-collection.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/the-eternal-collection.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\the-eternal-collection.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/the-eternal-collection.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\the-eternal-collection.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/the-eternal-collection/products/fireside
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\the-eternal-collection\products\fireside.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/the-eternal-collection/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\the-eternal-collection\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/the-eternal-collection/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\the-eternal-collection\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/types?q=Gift Cards
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\types.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/types?q=gift+cards
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\types-1.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/types?q=wrapin
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\types-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/warm-musky.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/warm-musky/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/faraway-love
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\faraway-love.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/precious-letter
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\precious-letter.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/warm-musky/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\warm-musky\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy.atom
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy.atom
+Content Type: application/atom+xml
+
+Uri: https://www.misa.in/collections/woody-earthy.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/collections/woody-earthy/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/fireside
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\fireside.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/sacred-sanctuary
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\sacred-sanctuary.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/collections/woody-earthy/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\collections\woody-earthy\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/pages/contact-us
+File Name: C:\Downloaded Web Sites\www.misa.in\pages\contact-us.html
+Content Type: text/html
+
+Uri: https://www.misa.in/pages/faqs
+File Name: C:\Downloaded Web Sites\www.misa.in\pages\faqs.html
+Content Type: text/html
+
+Uri: https://www.misa.in/pages/our-story
+File Name: C:\Downloaded Web Sites\www.misa.in\pages\our-story.html
+Content Type: text/html
+
+Uri: https://www.misa.in/pages/return
+File Name: C:\Downloaded Web Sites\www.misa.in\pages\return.html
+Content Type: text/html
+
+Uri: https://www.misa.in/pages/terms-conditions
+File Name: C:\Downloaded Web Sites\www.misa.in\pages\terms-conditions.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/accessories-set
+File Name: C:\Downloaded Web Sites\www.misa.in\products\accessories-set.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/accessories-set-gold
+File Name: C:\Downloaded Web Sites\www.misa.in\products\accessories-set-gold.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/accessories-set-gold.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\accessories-set-gold.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/accessories-set.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\accessories-set.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/ambre-lueur
+File Name: C:\Downloaded Web Sites\www.misa.in\products\ambre-lueur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/ambre-lueur.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\ambre-lueur.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/autumn-woods
+File Name: C:\Downloaded Web Sites\www.misa.in\products\autumn-woods.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/autumn-woods.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\autumn-woods.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/bare-allure
+File Name: C:\Downloaded Web Sites\www.misa.in\products\bare-allure.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/bare-allure.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\bare-allure.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/blanc
+File Name: C:\Downloaded Web Sites\www.misa.in\products\blanc.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/blanc.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\blanc.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/claret
+File Name: C:\Downloaded Web Sites\www.misa.in\products\claret.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/claret.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\claret.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/come-undone
+File Name: C:\Downloaded Web Sites\www.misa.in\products\come-undone.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/come-undone.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\come-undone.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/dewy-nights
+File Name: C:\Downloaded Web Sites\www.misa.in\products\dewy-nights.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/dewy-nights.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\dewy-nights.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/digital-gift-card
+File Name: C:\Downloaded Web Sites\www.misa.in\products\digital-gift-card.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/digital-gift-card.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\digital-gift-card.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/enchanted-forest
+File Name: C:\Downloaded Web Sites\www.misa.in\products\enchanted-forest.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/enchanted-forest.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\enchanted-forest.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/esmer
+File Name: C:\Downloaded Web Sites\www.misa.in\products\esmer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/esmer.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\esmer.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/faraway-love
+File Name: C:\Downloaded Web Sites\www.misa.in\products\faraway-love.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/faraway-love.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\faraway-love.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/fireside
+File Name: C:\Downloaded Web Sites\www.misa.in\products\fireside.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/fireside.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\fireside.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/gift-wrap
+File Name: C:\Downloaded Web Sites\www.misa.in\products\gift-wrap.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/gift-wrap.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\gift-wrap.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/glade
+File Name: C:\Downloaded Web Sites\www.misa.in\products\glade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/glade.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\glade.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/goodnight-kiss
+File Name: C:\Downloaded Web Sites\www.misa.in\products\goodnight-kiss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/goodnight-kiss.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\goodnight-kiss.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/hygge
+File Name: C:\Downloaded Web Sites\www.misa.in\products\hygge.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/hygge.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\hygge.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/kairos
+File Name: C:\Downloaded Web Sites\www.misa.in\products\kairos.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/kairos.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\kairos.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/koselig-2
+File Name: C:\Downloaded Web Sites\www.misa.in\products\koselig-2.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/koselig-2.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\koselig-2.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/lagom
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/lagom-glow
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom-glow.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/lagom-glow.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom-glow.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/lagom-musk
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom-musk.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/lagom-musk.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom-musk.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/lagom-rose
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom-rose.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/lagom-rose.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom-rose.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/lagom.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lagom.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/liva
+File Name: C:\Downloaded Web Sites\www.misa.in\products\liva.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/liva.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\liva.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/love-potion
+File Name: C:\Downloaded Web Sites\www.misa.in\products\love-potion.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/love-potion.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\love-potion.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/lumi
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lumi.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/lumi.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lumi.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/lykke
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lykke.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/lykke.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\lykke.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/magic-fleur
+File Name: C:\Downloaded Web Sites\www.misa.in\products\magic-fleur.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/magic-fleur.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\magic-fleur.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/misa-x-sleep-rituals
+File Name: C:\Downloaded Web Sites\www.misa.in\products\misa-x-sleep-rituals.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/misa-x-sleep-rituals.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\misa-x-sleep-rituals.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/misty-garden
+File Name: C:\Downloaded Web Sites\www.misa.in\products\misty-garden.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/misty-garden.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\misty-garden.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/morning-blush
+File Name: C:\Downloaded Web Sites\www.misa.in\products\morning-blush.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/morning-blush.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\morning-blush.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/mountain-dawn
+File Name: C:\Downloaded Web Sites\www.misa.in\products\mountain-dawn.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/mountain-dawn.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\mountain-dawn.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/mystic-dreams
+File Name: C:\Downloaded Web Sites\www.misa.in\products\mystic-dreams.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/mystic-dreams.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\mystic-dreams.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/new-beginnings
+File Name: C:\Downloaded Web Sites\www.misa.in\products\new-beginnings.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/new-beginnings.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\new-beginnings.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/noir
+File Name: C:\Downloaded Web Sites\www.misa.in\products\noir.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/noir.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\noir.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/prairie
+File Name: C:\Downloaded Web Sites\www.misa.in\products\prairie.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/prairie.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\prairie.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/precious-letter
+File Name: C:\Downloaded Web Sites\www.misa.in\products\precious-letter.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/precious-letter.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\precious-letter.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/sacred-sanctuary
+File Name: C:\Downloaded Web Sites\www.misa.in\products\sacred-sanctuary.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/sacred-sanctuary.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\sacred-sanctuary.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/seaside-breeze
+File Name: C:\Downloaded Web Sites\www.misa.in\products\seaside-breeze.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/seaside-breeze.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\seaside-breeze.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/sienna
+File Name: C:\Downloaded Web Sites\www.misa.in\products\sienna.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/sienna.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\sienna.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/silent-whisper
+File Name: C:\Downloaded Web Sites\www.misa.in\products\silent-whisper.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/silent-whisper.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\silent-whisper.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/snuffer
+File Name: C:\Downloaded Web Sites\www.misa.in\products\snuffer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/snuffer.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\snuffer.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/soul-mate
+File Name: C:\Downloaded Web Sites\www.misa.in\products\soul-mate.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/soul-mate.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\soul-mate.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/summer-days
+File Name: C:\Downloaded Web Sites\www.misa.in\products\summer-days.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/summer-days.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\summer-days.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/sunset-serenade
+File Name: C:\Downloaded Web Sites\www.misa.in\products\sunset-serenade.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/sunset-serenade.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\sunset-serenade.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/swansong
+File Name: C:\Downloaded Web Sites\www.misa.in\products\swansong.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/swansong.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\swansong.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/the-wishlist
+File Name: C:\Downloaded Web Sites\www.misa.in\products\the-wishlist.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/the-wishlist.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\the-wishlist.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/wayfarer
+File Name: C:\Downloaded Web Sites\www.misa.in\products\wayfarer.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/wayfarer.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\wayfarer.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/products/woody-bliss
+File Name: C:\Downloaded Web Sites\www.misa.in\products\woody-bliss.html
+Content Type: text/html
+
+Uri: https://www.misa.in/products/woody-bliss.oembed
+File Name: C:\Downloaded Web Sites\www.misa.in\products\woody-bliss.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.misa.in/search
+File Name: C:\Downloaded Web Sites\www.misa.in\search.html
+Content Type: text/html
+
